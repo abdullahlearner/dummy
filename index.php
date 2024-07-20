@@ -1,6 +1,6 @@
 <?php
 $name = "abdullah";
-
+ 
 ?>
 <!doctype html>
 <html lang="en">
