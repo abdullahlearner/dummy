@@ -10,6 +10,7 @@ function sanitize_input($data){
     return $data;
 }
 
+// ...
 if($_SERVER['REQUEST_METHOD'] === 'GET'){
 
         $name = sanitize_input($_GET['myname'] ?? '');
